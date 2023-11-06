@@ -1,6 +1,5 @@
 # Hey! My name is Fazle Rabbi Abir😄
 
-🌍  I am a Front-End Developer based in Dhaka,Bangladesh.
 <br/>
 
 ### Skills
